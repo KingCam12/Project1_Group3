@@ -12,4 +12,6 @@ We are interested in learning more about a possible correlation between a compan
 To be decided after review the csv files in the slack
 
 #AB 
-##Added csv files and pulled individual stcok data and S&P 500 index
+##Added csv files and pulled individual stock data and S&P 500 index
+## Google launched GEMINI - the AI chatbot - on March 31, 2023
+## Microsoft lauched Copilot+ on November 1, 2023
