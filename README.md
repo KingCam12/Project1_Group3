@@ -6,4 +6,5 @@ Project one group three consolidates lessons from modules 1-9.
 # Each company’s real-time stock price changes based on its AI investments and niche AI projects.
 # Analyzed data is visualized in correlation tables and graphs, and values are expressed in percent changes.
 # Based on analyses, projections, and estimates of stock valuation and their possible connections to AI initiatives represent key findings of the study.
-
+# Of specific relevance are MSFT's Copilot+ launch on November 1, 2023 and GOOG's Gemini on March 31, 2023.
+# MSFT completed its acquisition of Nuance accelerating industry cloud strategy for healthcare in 2022
