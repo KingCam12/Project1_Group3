@@ -102,7 +102,8 @@ The preformance was compared for total return for the time period and annualized
 
 ![image](https://github.com/user-attachments/assets/e8daea6b-2979-4cac-b322-db9920459207)
 
-#### Volume Change as effect of ChatGPT release
+####  Volume Change as effect of ChatGPT release
+
 <table border="1" class="dataframe">
   <thead>
     <tr>
@@ -156,6 +157,7 @@ The preformance was compared for total return for the time period and annualized
 
 
 #### Percentage Change in Volume as effect of ChatGPT release
+
 <table border="1" class="dataframe">
   <thead>
     <tr>
@@ -254,19 +256,19 @@ Added revised csv datasets from YahooFinance
 Worked on Data exploration and analysis
 
 ---
-### Analysis
+### <p align="center"> Analysis
 
-**- The stock pricing trend matched the overall market for these companies**
+**<p align="center">- The stock pricing trend matched the overall market for these companies**
 
-**- The total and annual returns were significantly higher than the S&P500 overall market return**
+**<p align="center">- The total and annual returns were significantly higher than the S&P500 overall market return**
 
-**- The returns were higher for returns for the prospective companies making the three AI announcments than the other companies**
+**<p align="center">- The returns were higher for returns for the prospective companies making the three AI announcments than the other companies**
 
-**- The share return for Facebook/Meta was adnormally higher than the other comanpanies**
+**<p align="center">- The share return for Facebook/Meta was adnormally higher than the other comanpanies**
 
-**- After each of the three AI announcments all of these shares significantly higher trading volume than the averages**
+**<p align="center">- After each of the three AI announcments all of these shares significantly higher trading volume than the averages**
 
-**- These spikes were higher for the respective companies that made the AI releases**
+**<p align="center">- These spikes were higher for the respective companies that made the AI releases**
 
 ###### Data References 
 
