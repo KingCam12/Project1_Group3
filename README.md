@@ -100,6 +100,9 @@ The preformance was compared for total return for the time period and annualized
 </div>
 
 
+![image](https://github.com/user-attachments/assets/e8daea6b-2979-4cac-b322-db9920459207)
+
+
 ### Installation Instructions 
 
 Prerequisites needed 
