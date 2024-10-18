@@ -3,11 +3,11 @@ Project one group three consolidates lessons from modules 1-9.
 
 ## Project Description
 
-##### Team members 
+##### **Team members**
 
 Alexander Iruthaya, Aannd Bhagwat, Cameron Burgess, Jean Clark, Usha Hariharan
 
-### Project Objectives
+### <p align="center">Project Objectives
 
 We are interested in learning more about a possible correlation between a company's AI initiatives and it's stock price and market valuation relative to overall market trends.
 
@@ -235,7 +235,7 @@ import yfinance as yf
 
 ## <p align="center"> Summary
 
-Found strong correlation 
+
 ### Group Three’s Project involves analysis of US stock market data from 2018 to date to locate if salient correlations exist between major real-time AI innovation announcements and stock prices of MSFT, GOOG, FB, and AAPL.
 
 ### The methodology involves analyzing individual prices of these four against S&P index values from 2018 to date.
