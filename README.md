@@ -63,6 +63,6 @@ Added revised csv datasets from YahooFinance
 Worked on Data exploration and analysis
 
 ###### Data References 
-- yahoo finance
+- [yahoo finance](https://finance.yahoo.com/)
 
-- Kaggle (for S&P500)
+- [Kaggle (for S&P500)](https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks)
