@@ -26,11 +26,11 @@ The following companies data were selected for the analysis and compared against
 
 ### Major Events selected for Segmented Analysis
 
-November 30, 2022 - Release of ChatGPT by OpenAI with industry wide impact
+November 30, 2022 - Release of [ChatGPT](https://chatgpt.com/) by OpenAI with industry wide impact
 
-March 31, 2023 - Release of Gemini/Bard by Google(GOOGL) 
+March 31, 2023 - Release of [Gemini/Bard](https://gemini.google.com/app) by Google(GOOGL) 
 
-November 1, 2023 - Release of Copilot + by Microsoft(MSFT)
+November 1, 2023 - Release of [Copilot](https://copilot.microsoft.com/) + by Microsoft(MSFT)
 
 ### Output
 The preformance was compared for total return for the time period and annualized return for time period and return from each event to the end and from total market from S&P500 for the same time period.
