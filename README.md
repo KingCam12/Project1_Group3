@@ -102,7 +102,109 @@ The preformance was compared for total return for the time period and annualized
 
 ![image](https://github.com/user-attachments/assets/e8daea6b-2979-4cac-b322-db9920459207)
 
+#### Volume Change as effect of ChatGPT release
+<table border="1" class="dataframe">
+  <thead>
+    <tr>
+      <th></th>
+      <th>AAPL</th>
+      <th>GOOGL</th>
+      <th>MSFT</th>
+      <th>FB</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>Volume</th>
+      <th>Volume</th>
+      <th>Volume</th>
+      <th>Volume</th>
+    </tr>
+    <tr>
+      <th>Date</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>2022-11-29</th>
+      <td>83763800</td>
+      <td>20061700</td>
+      <td>17956300</td>
+      <td>23899200</td>
+    </tr>
+    <tr>
+      <th>2022-11-30</th>
+      <td>111380900</td>
+      <td>43647500</td>
+      <td>47594200</td>
+      <td>43348600</td>
+    </tr>
+    <tr>
+      <th>2022-12-01</th>
+      <td>71250400</td>
+      <td>28687100</td>
+      <td>26041500</td>
+      <td>36551400</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
+
+
+#### Percentage Change in Volume as effect of ChatGPT release
+<table border="1" class="dataframe">
+  <thead>
+    <tr>
+      <th></th>
+      <th>AAPL</th>
+      <th>GOOGL</th>
+      <th>MSFT</th>
+      <th>FB</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>Volume(%)</th>
+      <th>Volume(%)</th>
+      <th>Volume(%)</th>
+      <th>Volume(%)</th>
+    </tr>
+    <tr>
+      <th>Date</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>2022-11-29</th>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2022-11-30</th>
+      <td>32.970209</td>
+      <td>117.566308</td>
+      <td>165.055719</td>
+      <td>81.380967</td>
+    </tr>
+    <tr>
+      <th>2022-12-01</th>
+      <td>-36.029966</td>
+      <td>-34.275503</td>
+      <td>-45.284299</td>
+      <td>-15.680322</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 ### Installation Instructions 
 
 Prerequisites needed 
