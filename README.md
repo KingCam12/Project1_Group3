@@ -257,10 +257,15 @@ Worked on Data exploration and analysis
 ### Analysis
 
 **- The stock pricing trend matched the overall market for these companies**
+
 **- The total and annual returns were significantly higher than the S&P500 overall market return**
+
 **- The returns were higher for returns for the prospective companies making the three AI announcments than the other companies**
+
 **- The share return for Facebook/Meta was adnormally higher than the other comanpanies**
+
 **- After each of the three AI announcments all of these shares significantly higher trading volume than the averages**
+
 **- These spikes were higher for the respective companies that made the AI releases**
 
 ###### Data References 
