@@ -248,7 +248,7 @@ import yfinance as yf
 
 ### Based on analyses, projections, and estimates of stock valuation and their possible connections to AI initiatives represent key findings of the study.
 
-### Of specific relevance are MSFT's Copilot+ launch on November 1, 2023 and GOOG's Gemini on March 31, 2023.
+### Of specific relevance are OpenAI's release of ChatGPT on November 30, 2022, GOOGL's Gemini on March 31, 2023 and MSFT's Copilot+ launch on November 1, 2023.
 
 ### MSFT completed its acquisition of Nuance accelerating industry cloud strategy for healthcare in 2022
 
@@ -266,7 +266,7 @@ Worked on Data exploration and analysis
 
 **<p align="center">- The share return for Facebook/Meta was adnormally higher than the other comanpanies**
 
-**<p align="center">- After each of the three AI announcments all of these shares significantly higher trading volume than the averages**
+**<p align="center">- After each of the three AI announcments all of these shares significantly higher trading volume than the averages - most significant being after ChatGPT**
 
 **<p align="center">- These spikes were higher for the respective companies that made the AI releases**
 
