@@ -1,7 +1,7 @@
 Project1_Group3
 Project one group three consolidates lessons from modules 1-9. 
 ---
-# [Presentation](https://buckeyemailosu-my.sharepoint.com/:p:/g/personal/burgess_289_buckeyemail_osu_edu/EQkqLp0aac5IlkbgUh4rQS8Bl1FBdxNNKVwIZ9PHLWVjKw?e=utePs2)
+# [Presentation](https://github.com/KingCam12/Project1_Group3/blob/464c408acfe722c7f025ba08bc5a1d6e3f471265/PROJECT%201%20GROUP%203%20PRESENTATION%20.pdf)
 ---
 ## Project Description
 
